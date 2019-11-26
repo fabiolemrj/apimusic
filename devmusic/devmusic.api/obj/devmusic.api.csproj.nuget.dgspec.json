@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\apimusic-master\\devmusic\\devmusic.api\\devmusic.api.csproj": {}
+    "C:\\dev\\apimusic\\devmusic\\devmusic.api\\devmusic.api.csproj": {}
   },
   "projects": {
-    "C:\\dev\\apimusic-master\\devmusic\\devmusic.api\\devmusic.api.csproj": {
+    "C:\\dev\\apimusic\\devmusic\\devmusic.api\\devmusic.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\apimusic-master\\devmusic\\devmusic.api\\devmusic.api.csproj",
+        "projectUniqueName": "C:\\dev\\apimusic\\devmusic\\devmusic.api\\devmusic.api.csproj",
         "projectName": "devmusic.api",
-        "projectPath": "C:\\dev\\apimusic-master\\devmusic\\devmusic.api\\devmusic.api.csproj",
+        "projectPath": "C:\\dev\\apimusic\\devmusic\\devmusic.api\\devmusic.api.csproj",
         "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\apimusic-master\\devmusic\\devmusic.api\\obj\\",
+        "outputPath": "C:\\dev\\apimusic\\devmusic\\devmusic.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
